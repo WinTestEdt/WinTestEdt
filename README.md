@@ -1,8 +1,8 @@
 ## Hi there 
 
-### This is to track all issues of <b>WinTestEdt</b> https://github.com/WinTestEdt/WinTestEdt/issues
+### report all issues with <b>WinTestEdt</b> here: https://github.com/WinTestEdt/WinTestEdt/issues
 
-### Version 11.2 Beta testing https://github.com/WinTestEdt/V11.2-Beta/issues
+### Current development Version 11.2 Beta testing https://github.com/WinTestEdt/V11.2-Beta/issues
 
 <!--
 **WinTestEdt/WinTestEdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
