@@ -1,6 +1,6 @@
-### Hi there 
+## Hi there 
 
-This is to track all issues of <b>WinTestEdt</b>
+### This is to track all issues of <b>WinTestEdt</b> https://github.com/WinTestEdt/WinTestEdt/issues
 
 ## Version 11.2 Beta testing https://github.com/WinTestEdt/V11.2-Beta/issues
 
