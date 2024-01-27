@@ -3,7 +3,8 @@
 This is a demonstration for all WinEdt discussions, help requests, beta testing, etc to replace the 
 list server: winedt+list@wsg.net
 
-Help requests, problem repotrs, etc. will now be managed by a forum using the ["discussion"](https://github.com/WinTestEdt/WinTestEdt/discussions) feature of GitHub
+Help requests, problem repotrs, etc. will now be managed by a forum using the ["discussion"](https://github.com/WinTestEdt/WinTestEdt/discussions) feature of GitHub.
+This is a forum based discussion with optional [email suppot](https://github.com/WinTestEdt/WinTestEdt/discussions/12) for notifications and replies. 
 
 To open a new discussion, help request, etc you must have a GitHub account
 
