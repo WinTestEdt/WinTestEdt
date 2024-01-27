@@ -1,7 +1,7 @@
 ## WinTestEdt ["discussion"](https://github.com/WinTestEdt/WinTestEdt/discussions) 
 
 This is a demonstration for all WinEdt discussions, help requests, beta testing, etc to replace the 
-list server: winedt+list@wsg.net
+list server hosted by wsg.net.
 
 Help requests, problem repotrs, etc. will now be managed by a forum using the ["discussion"](https://github.com/WinTestEdt/WinTestEdt/discussions) feature of GitHub.
 This is a forum based discussion with optional [email suppot](https://github.com/WinTestEdt/WinTestEdt/discussions/12) for notifications and replies. 
