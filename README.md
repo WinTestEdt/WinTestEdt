@@ -1,6 +1,8 @@
-## WinTestEdt ["discussion"](https://github.com/WinTestEdt/WinTestEdt/discussions) 
+## <img align="left" src="https://www.winedt.com/images/WinEdt.png"> WinTestEdt ["discussion"](https://github.com/WinTestEdt/WinTestEdt/discussions) 
 
-This is a demonstration for all WinEdt discussions, help requests, beta testing, etc to replace the 
+
+
+<img align="left" src="https://www.winedt.com/images/WinEdt.png">This is a demonstration for all WinEdt discussions, help requests, beta testing, etc to replace the 
 list server hosted by wsg.net.
 
 Help requests, problem repotrs, etc. will now be managed by a forum using the ["discussion"](https://github.com/WinTestEdt/WinTestEdt/discussions) feature of GitHub.
