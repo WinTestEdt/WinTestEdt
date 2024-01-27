@@ -1,22 +1,11 @@
-## Hi there 
+## WinTestEdt ["discussion"](https://github.com/WinTestEdt/WinTestEdt/discussions) 
 
-### Report an issue:
-Issues of released versions are reported [here:](https://github.com/WinTestEdt/WinTestEdt/issues)
+This is a demonstration for all WinEdt discussions, help requests, beta testing, etc to replace the 
+list server: winedt+list@wsg.net
 
-### Current development Version 11.2 Beta testing. 
-Interested in beta testing. Please configure the "Watch" option [WintTestEdt Beta v11.2](https://github.com/WinTestEdt/V11.2-Beta) 
-(see next section) to be notified of beta releases and issues reported
+Help requests, problem repotrs, etc. will now be managed by a forum using the ["discussion"](https://github.com/WinTestEdt/WinTestEdt/discussions) feature of GitHub
 
-Add your observed bugs/issues for the beta versions are reported [here:](https://github.com/WinTestEdt/V11.2-Beta/issues)
-
-### Receiving emails of issues raised.
-You will always receive an email for any reply to an issue you have raised. However, you can configure 
-the "Watch" option [WinTestEdt](https://github.com/WinTestEdt/WinTestEdt) and/or [WintTestEdt Beta v11.2](https://github.com/WinTestEdt/V11.2-Beta) to 
-receive an email for every issue raised in respective repository. 
-
-
-![watch](https://github.com/WinTestEdt/WinTestEdt/assets/157799253/51d57279-9631-4ee2-831f-fd2c5b54b2d7)
-
+To open a new discussion, help request, etc you must have a GitHub account
 
 <!--
 **WinTestEdt/WinTestEdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
